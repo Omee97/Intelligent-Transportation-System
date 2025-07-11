@@ -1,0 +1,73 @@
+city,origin,destination,distance_km,duration_min
+Bangalore,Indiranagar,Majestic,11.23,17.43
+Bangalore,Indiranagar,Koramangala,6.34,9.21
+Bangalore,Indiranagar,Whitefield,13.92,18.0
+Bangalore,Majestic,Indiranagar,10.94,18.93
+Bangalore,Majestic,Koramangala,10.51,17.12
+Bangalore,Majestic,Whitefield,24.4,35.11
+Bangalore,Koramangala,Indiranagar,5.52,8.81
+Bangalore,Koramangala,Majestic,11.49,17.55
+Bangalore,Koramangala,Whitefield,17.22,22.23
+Bangalore,Whitefield,Indiranagar,14.22,18.86
+Bangalore,Whitefield,Majestic,23.59,32.75
+Bangalore,Whitefield,Koramangala,17.13,22.2
+Delhi,Connaught Place,Dwarka,21.68,26.36
+Delhi,Connaught Place,Karol Bagh,4.19,5.95
+Delhi,Connaught Place,Saket,15.24,18.95
+Delhi,Dwarka,Connaught Place,22.7,27.62
+Delhi,Dwarka,Karol Bagh,20.93,24.61
+Delhi,Dwarka,Saket,23.2,27.5
+Delhi,Karol Bagh,Connaught Place,5.31,7.56
+Delhi,Karol Bagh,Dwarka,20.03,24.32
+Delhi,Karol Bagh,Saket,19.05,23.2
+Delhi,Saket,Connaught Place,14.72,16.76
+Delhi,Saket,Dwarka,23.34,26.95
+Delhi,Saket,Karol Bagh,18.62,22.03
+Mumbai,Andheri East,Dadar,14.35,13.38
+Mumbai,Andheri East,Bandra,10.18,9.62
+Mumbai,Andheri East,Navi Mumbai,31.67,26.73
+Mumbai,Dadar,Andheri East,15.19,14.7
+Mumbai,Dadar,Bandra,7.36,8.98
+Mumbai,Dadar,Navi Mumbai,27.49,25.77
+Mumbai,Bandra,Andheri East,8.84,10.34
+Mumbai,Bandra,Dadar,7.11,9.04
+Mumbai,Bandra,Navi Mumbai,26.85,24.02
+Mumbai,Navi Mumbai,Andheri East,27.61,23.73
+Mumbai,Navi Mumbai,Dadar,27.1,21.7
+Mumbai,Navi Mumbai,Bandra,28.03,20.57
+Chennai,T. Nagar,Anna Nagar,7.79,10.9
+Chennai,T. Nagar,Velachery,10.76,14.64
+Chennai,T. Nagar,Adyar,7.05,11.71
+Chennai,Anna Nagar,T. Nagar,7.52,10.67
+Chennai,Anna Nagar,Velachery,17.86,23.05
+Chennai,Anna Nagar,Adyar,15.32,21.72
+Chennai,Velachery,T. Nagar,10.45,14.24
+Chennai,Velachery,Anna Nagar,16.39,22.15
+Chennai,Velachery,Adyar,9.15,14.36
+Chennai,Adyar,T. Nagar,7.85,12.84
+Chennai,Adyar,Anna Nagar,14.41,20.63
+Chennai,Adyar,Velachery,8.56,13.13
+Hyderabad,Banjara Hills,Gachibowli,14.37,22.01
+Hyderabad,Banjara Hills,Secunderabad,9.28,13.08
+Hyderabad,Banjara Hills,Charminar,9.68,11.93
+Hyderabad,Gachibowli,Banjara Hills,14.32,20.64
+Hyderabad,Gachibowli,Secunderabad,19.8,26.54
+Hyderabad,Gachibowli,Charminar,18.8,24.86
+Hyderabad,Secunderabad,Banjara Hills,8.72,12.51
+Hyderabad,Secunderabad,Gachibowli,19.83,27.57
+Hyderabad,Secunderabad,Charminar,12.51,14.95
+Hyderabad,Charminar,Banjara Hills,9.21,12.14
+Hyderabad,Charminar,Gachibowli,18.31,24.67
+Hyderabad,Charminar,Secunderabad,13.76,15.97
+Kolkata,Salt Lake,Howrah,13.64,23.6
+Kolkata,Salt Lake,Park Street,10.72,16.86
+Kolkata,Salt Lake,Tollygunge,17.74,28.3
+Kolkata,Howrah,Salt Lake,12.97,20.8
+Kolkata,Howrah,Park Street,7.81,15.54
+Kolkata,Howrah,Tollygunge,16.59,23.68
+Kolkata,Park Street,Salt Lake,11.17,15.9
+Kolkata,Park Street,Howrah,12.34,16.09
+Kolkata,Park Street,Tollygunge,7.38,12.77
+Kolkata,Tollygunge,Salt Lake,17.65,28.05
+Kolkata,Tollygunge,Howrah,16.62,22.14
+Kolkata,Tollygunge,Park Street,7.62,13.7
